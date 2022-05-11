@@ -1,0 +1,19 @@
+{
+  "name": "entregue.me-backend",
+  "version": "0.0.1",
+  "description": "backend do projeto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamateus-henrique/entregue-me-backend.git"
+  },
+  "author": "Mateus Henrique Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pamateus-henrique/entregue-me-backend/issues"
+  },
+  "homepage": "https://github.com/pamateus-henrique/entregue-me-backend#readme"
+}
